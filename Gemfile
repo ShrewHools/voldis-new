@@ -19,7 +19,9 @@ gem 'russian', '~> 0.6.0'
 # gem 'remotipart', github: 'mshibuya/remotipart'
 
 gem 'rails_admin', '~> 1.2'
-
+gem 'devise'
+gem 'cancancan'
+gem 'rolify'
 
 gem 'figaro', '~> 1.1', '>= 1.1.1'
 # Use Redis adapter to run Action Cable in production
